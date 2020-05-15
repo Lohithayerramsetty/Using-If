@@ -1,0 +1,13 @@
+C:\Users\lohit\source\repos\Week1_If\Week1_If\obj\Debug\netcoreapp3.1\Week1_If.csprojAssemblyReference.cache
+C:\Users\lohit\source\repos\Week1_If\Week1_If\obj\Debug\netcoreapp3.1\Week1_If.csproj.CoreCompileInputs.cache
+C:\Users\lohit\source\repos\Week1_If\Week1_If\obj\Debug\netcoreapp3.1\Week1_If.AssemblyInfoInputs.cache
+C:\Users\lohit\source\repos\Week1_If\Week1_If\obj\Debug\netcoreapp3.1\Week1_If.AssemblyInfo.cs
+C:\Users\lohit\source\repos\Week1_If\Week1_If\bin\Debug\netcoreapp3.1\Week1_If.exe
+C:\Users\lohit\source\repos\Week1_If\Week1_If\bin\Debug\netcoreapp3.1\Week1_If.deps.json
+C:\Users\lohit\source\repos\Week1_If\Week1_If\bin\Debug\netcoreapp3.1\Week1_If.runtimeconfig.json
+C:\Users\lohit\source\repos\Week1_If\Week1_If\bin\Debug\netcoreapp3.1\Week1_If.runtimeconfig.dev.json
+C:\Users\lohit\source\repos\Week1_If\Week1_If\bin\Debug\netcoreapp3.1\Week1_If.dll
+C:\Users\lohit\source\repos\Week1_If\Week1_If\bin\Debug\netcoreapp3.1\Week1_If.pdb
+C:\Users\lohit\source\repos\Week1_If\Week1_If\obj\Debug\netcoreapp3.1\Week1_If.dll
+C:\Users\lohit\source\repos\Week1_If\Week1_If\obj\Debug\netcoreapp3.1\Week1_If.pdb
+C:\Users\lohit\source\repos\Week1_If\Week1_If\obj\Debug\netcoreapp3.1\Week1_If.genruntimeconfig.cache
